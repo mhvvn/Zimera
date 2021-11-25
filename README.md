@@ -2,7 +2,7 @@
 ___
 
 ##### Oleh: Muhammad veven
-Tanggal : 
-Ringkasan materi : 
-Penjelasan tentang isi repo : Repo pembelaran Python 
-Lisensi
+##### Tanggal : 
+##### Ringkasan materi : 
+##### Penjelasan tentang isi repo : Repo pembelaran Python 
+##### Lisensi
